@@ -73,7 +73,7 @@ class ViewController: UIViewController {
     
     private lazy var occupationLabel: UILabel = {
         let label = UILabel(frame: CGRect(x: 16, y: 461, width: 358, height: 21))
-        label.text = "Должность: Swift Developer"
+        label.text = "Должность: iOS-разработчик"
         return label
     }()
     
